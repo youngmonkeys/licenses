@@ -2,7 +2,7 @@
                     Phiên bản 1.0, Tháng 3 2022
         http://www.youngmonkeys.org/licenses/ezyplatform-vi.txt
 
-ĐIỀU KHOẢN SỬ DỤNG, TÁI TẠO VÀ PH N PHỐI
+ĐIỀU KHOẢN SỬ DỤNG, TÁI TẠO VÀ PHÂN PHỐI
 
 1. Định nghĩa
 Chúng tôi: Là tổ chức youngmonkeys.org.
